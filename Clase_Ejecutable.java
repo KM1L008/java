@@ -4,6 +4,9 @@ public class Clase_Ejecutable {
 
 	public static void main(String[] args) {
 		ClaseConstructora lista = new ClaseConstructora();
+
+		Scanner teclado = new Scanner(System.in);
+		menu = teclado.nextLine();
 		
 		int num = 5;
 		

@@ -4,7 +4,8 @@ import edu.itfip.listas.Nodo;
 
 public class ClaseConstructora {
 	// nombre_clase_nodo + nombre_var + = + new + nombre_clase_nodo+() + ;
-	
+
+	// Creando dos nodos
 	ClaseNodo primero = new ClaseNodo();
 	ClaseNodo ultimo = new ClaseNodo();
 	

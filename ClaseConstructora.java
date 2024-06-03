@@ -18,6 +18,8 @@ public class ClaseConstructora {
 		ClaseNodo nuevo = new ClaseNodo();
 		
 		nuevo.num = num;
+
+		//este if siempre va a ser igual
 		
 		if (primero == null) {
 			primero = nuevo;

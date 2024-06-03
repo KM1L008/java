@@ -3,6 +3,8 @@ package edu.itfip.estructura;
 import edu.itfip.listas.Nodo;
 
 public class ClaseConstructora {
+	// nombre_clase_nodo + nombre_var + = + new + nombre_clase_nodo+() + ;
+	
 	ClaseNodo primero = new ClaseNodo();
 	ClaseNodo ultimo = new ClaseNodo();
 	
